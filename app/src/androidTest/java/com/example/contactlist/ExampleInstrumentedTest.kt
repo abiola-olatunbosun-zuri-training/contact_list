@@ -1,4 +1,4 @@
-package com.android.zuritask.nsikak.contactlist
+package com.example.contactlist
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4
@@ -19,6 +19,6 @@ class ExampleInstrumentedTest {
     fun useAppContext() {
         // Context of the app under test.
         val appContext = InstrumentationRegistry.getInstrumentation().targetContext
-        assertEquals("com.android.zuritask.nsikak.com.example.contactlist", appContext.packageName)
+        assertEquals("com.example.contactlist", appContext.packageName)
     }
 }
