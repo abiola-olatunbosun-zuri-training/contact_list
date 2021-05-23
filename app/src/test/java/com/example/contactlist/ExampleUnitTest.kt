@@ -1,4 +1,4 @@
-package com.android.zuritask.nsikak.contactlist
+package com.example.contactlist
 
 import org.junit.Test
 
