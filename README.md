@@ -1,13 +1,13 @@
 # Contact List App
 # A basic Android app that utilizes Android RecyclerView to categorize and display contacts. 
 
-![Contact List Screenshot 1](https://drive.google.com/file/d/1HnUHXGgqlceWr_KFMXvdse1VzSXH21jS/view?usp=sharing "Contact List Screenshot 1")
+![Screenshot_2021-05-23-15-17-05](https://user-images.githubusercontent.com/72774774/119274960-5bc0f800-bc0a-11eb-92ac-4dc550cf138f.png)
 
-![Contact List Screenshot 2](https://drive.google.com/file/d/1m_7uvlqpKw5zAKBr_3e2iLD4i4aabn34/view?usp=sharing "Contact List Screenshot 2")
+![Screenshot_2021-05-23-15-17-22](https://user-images.githubusercontent.com/72774774/119274968-654a6000-bc0a-11eb-8d4c-85f097220809.png)
 
-![Contact List Screenshot 3](https://drive.google.com/file/d/1KfSGbuLdzylzkjC7XGd3cZKA_VaC5dGp/view?usp=sharing "Contact List Screenshot 3")
+![Screenshot_2021-05-23-15-18-48](https://user-images.githubusercontent.com/72774774/119274975-709d8b80-bc0a-11eb-80d6-049ecc7b05d0.png)
 
-![Contact List Screenshot 4](https://drive.google.com/file/d/1DeSgXQvFRDYYgFi-pMCZfEgJgh8_g2QK/view?usp=sharing "Contact List Screenshot 4")
+![Screenshot_2021-05-23-15-17-54](https://user-images.githubusercontent.com/72774774/119274983-75fad600-bc0a-11eb-9024-7f4efc980e80.png)
 
 
 
